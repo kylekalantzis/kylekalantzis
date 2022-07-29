@@ -1,14 +1,7 @@
 ### Welcome to my Personal Page👋
 ##
 #### Junior Dev who loves to golf🏌️‍♂️, ride my motorocycle🏍, and hang with my dog🐕
-##
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kylekalantzis/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-  alt="LinkedIn Badge"/>
-  </a> <br>
-  <img src="https://komarev.com/ghpvc/?username=kylekalantzis&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ##
 ### Languages and Tools💻
@@ -37,6 +30,17 @@ width="40" height="40"/>&nbsp;
 alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
+##
+### Current Projects 📝
+Confidential until Release 🔐
+##
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kylekalantzis/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+  alt="LinkedIn Badge"/>
+  </a> <br>
+  <img src="https://komarev.com/ghpvc/?username=kylekalantzis&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **kylekalantzis/kylekalantzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
