@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Welcome to my Personal Page
-#### Junior Dev who loves to golf, ride my motorocycle, and hang with my dog
+#### Junior Dev who loves to golf🏌️‍♂️, ride my motorocycle🏍, and hang with my dog🐕
 
 <!--
 **kylekalantzis/kylekalantzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
